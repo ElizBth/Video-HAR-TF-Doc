@@ -1,0 +1,220 @@
+\begin{thebibliography}{999}
+
+\bibitem[Luo et~al.(2023)Luo, Kim, Park, Lim, and Jung]{Luo2023-xq}
+Luo, C.; Kim, S.W.; Park, H.Y.; Lim, K.; Jung, H.
+\newblock {Viewpoint-Agnostic} Taekwondo Action Recognition Using Synthesized {Two-Dimensional} Skeletal Datasets.
+\newblock {\em Sensors (Basel)} {\bf 2023}, {\em 23}.
+
+\bibitem[Stephen et~al.(2021)Stephen, Liu, and Barsopia]{9506554}
+Stephen, K.; Liu, J.; Barsopia, V.
+\newblock A Hybrid two-stream approach for Multi-Person Action Recognition in TOP-VIEW 360° Videos.
+\newblock In Proceedings of the 2021 IEEE International Conference on Image Processing (ICIP),  2021, pp. 3418--3422.
+\newblock {\url{https://doi.org/10.1109/ICIP42928.2021.9506554}}.
+
+\bibitem[Gonçalves et~al.(2023)Gonçalves, Lopes, Moccia, Berardini, Migliorelli, and Santos]{GONCALVES2023120288}
+Gonçalves, C.; Lopes, J.M.; Moccia, S.; Berardini, D.; Migliorelli, L.; Santos, C.P.
+\newblock Deep learning-based approaches for human motion decoding in smart walkers for rehabilitation.
+\newblock {\em Expert Systems with Applications} {\bf 2023}, {\em 228},~120288.
+\newblock {\url{https://doi.org/https://doi.org/10.1016/j.eswa.2023.120288}}.
+
+\bibitem[Hwang et~al.(2023)Hwang, Jang, Park, Cho, and Kim]{9324837}
+Hwang, H.; Jang, C.; Park, G.; Cho, J.; Kim, I.J.
+\newblock ElderSim: A Synthetic Data Generation Platform for Human Action Recognition in Eldercare Applications.
+\newblock {\em IEEE Access} {\bf 2023}, {\em 11},~9279--9294.
+\newblock {\url{https://doi.org/10.1109/ACCESS.2021.3051842}}.
+
+\bibitem[Niu(2021)]{niu2021}
+Niu, Z.
+\newblock A Lightweight Two-stream Fusion Deep Neural Network Based on ResNet Model for Sports Motion Image Recognition.
+\newblock {\em Sensing and Imaging} {\bf 2021}, {\em 22}.
+\newblock {\url{https://doi.org/10.1007/s11220-021-00350-6}}.
+
+\bibitem[Patron-Perez et~al.(2010)Patron-Perez, Marszalek, Zisserman, and Reid]{highfive}
+Patron-Perez, A.; Marszalek, M.; Zisserman, A.; Reid, I.
+\newblock High Five: Recognising human interactions in TV shows.
+\newblock  01 2010, pp. 1--11.
+\newblock {\url{https://doi.org/10.5244/C.24.50}}.
+
+\bibitem[Yu et~al.(2024)Yu, Zhang, Xu, and Ou]{YU2024126827}
+Yu, X.; Zhang, X.; Xu, C.; Ou, L.
+\newblock Human–robot collaborative interaction with human perception and action recognition.
+\newblock {\em Neurocomputing} {\bf 2024}, {\em 563},~126827.
+\newblock {\url{https://doi.org/https://doi.org/10.1016/j.neucom.2023.126827}}.
+
+\bibitem[Zhang et~al.(2019)Zhang, Zhang, Zhong, Lei, Yang, Du, and Chen]{s19051005}
+Zhang, H.B.; Zhang, Y.X.; Zhong, B.; Lei, Q.; Yang, L.; Du, J.X.; Chen, D.S.
+\newblock A Comprehensive Survey of Vision-Based Human Action Recognition Methods.
+\newblock {\em Sensors} {\bf 2019}, {\em 19}.
+\newblock {\url{https://doi.org/10.3390/s19051005}}.
+
+\bibitem[Pareek and Thakkar(2021)]{Pareek2021-zg}
+Pareek, P.; Thakkar, A.
+\newblock A survey on video-based Human Action Recognition: recent updates, datasets, challenges, and applications.
+\newblock {\em Artificial Intelligence Review} {\bf 2021}, {\em 54},~2259--2322.
+
+\bibitem[Wang et~al.(2022)Wang, Li, Li, He, Huang, Zhao, Zhang, Xu, Liu, Wang, Xing, Chen, Pan, Yu, Wang, Wang, and Qiao]{wang2022internvideo}
+Wang, Y.; Li, K.; Li, Y.; He, Y.; Huang, B.; Zhao, Z.; Zhang, H.; Xu, J.; Liu, Y.; Wang, Z.;  et~al.
+\newblock InternVideo: General Video Foundation Models via Generative and Discriminative Learning,  2022,  \href{http://xxx.lanl.gov/abs/2212.03191}{{\normalfont [arXiv:cs.CV/2212.03191]}}.
+
+\bibitem[Smaira et~al.(2020)Smaira, Carreira, Noland, Clancy, Wu, and Zisserman]{smaira2020short}
+Smaira, L.; Carreira, J.; Noland, E.; Clancy, E.; Wu, A.; Zisserman, A.
+\newblock A Short Note on the Kinetics-700-2020 Human Action Dataset,  2020,  \href{http://xxx.lanl.gov/abs/2010.10864}{{\normalfont [arXiv:cs.CV/2010.10864]}}.
+
+\bibitem[Tammina(2019)]{Tammina_2019}
+Tammina, S.
+\newblock Transfer learning using VGG-16 with deep convolutional neural network for classifying images.
+\newblock {\em International Journal of Scientific and Research Publications (IJSRP)} {\bf 2019}, {\em 9}.
+\newblock {\url{https://doi.org/10.29322/ijsrp.9.10.2019.p9420}}.
+
+\bibitem[Ahsan et~al.(2019)Ahsan, Madhok, and Essa]{8659002}
+Ahsan, U.; Madhok, R.; Essa, I.
+\newblock Video Jigsaw: Unsupervised Learning of Spatiotemporal Context for Video Action Recognition.
+\newblock In Proceedings of the 2019 IEEE Winter Conference on Applications of Computer Vision (WACV),  2019, pp. 179--189.
+\newblock {\url{https://doi.org/10.1109/WACV.2019.00025}}.
+
+\bibitem[Diba et~al.(2018)Diba, Fayyaz, Sharma, Arzani, Yousefzadeh, Gall, and Van~Gool]{978301225}
+Diba, A.; Fayyaz, M.; Sharma, V.; Arzani, M.M.; Yousefzadeh, R.; Gall, J.; Van~Gool, L.
+\newblock Spatio-temporal Channel Correlation Networks for Action Classification.
+\newblock In Proceedings of the Computer Vision -- ECCV 2018; Ferrari, V.; Hebert, M.; Sminchisescu, C.; Weiss, Y., Eds., Cham,  2018; pp. 299--315.
+
+\bibitem[Luo et~al.(2019)Luo, Ye, and Zhou]{8945731}
+Luo, X.; Ye, O.; Zhou, B.
+\newblock An Modified Video Stream Classification Method Which Fuses Three-Dimensional Convolutional Neural Network.
+\newblock In Proceedings of the 2019 International Conference on Machine Learning, Big Data and Business Intelligence (MLBDBI),  2019, pp. 105--108.
+\newblock {\url{https://doi.org/10.1109/MLBDBI48998.2019.00026}}.
+
+\bibitem[Diba et~al.(2016)Diba, Pazandeh, and Gool]{diba2016efficient}
+Diba, A.; Pazandeh, A.M.; Gool, L.V.
+\newblock Efficient Two-Stream Motion and Appearance 3D CNNs for Video Classification,  2016,  \href{http://xxx.lanl.gov/abs/1608.08851}{{\normalfont [arXiv:cs.CV/1608.08851]}}.
+
+\bibitem[Duvvuri et~al.(2023)Duvvuri, Kanisettypalli, Jaswanth, and K.]{10112975}
+Duvvuri, K.; Kanisettypalli, H.; Jaswanth, K.; K., M.
+\newblock Video Classification Using CNN and Ensemble Learning.
+\newblock In Proceedings of the 2023 9th International Conference on Advanced Computing and Communication Systems (ICACCS),  2023, Vol.~1, pp. 66--70.
+\newblock {\url{https://doi.org/10.1109/ICACCS57279.2023.10112975}}.
+
+\bibitem[Ijjina and {Krishna Mohan}(2016)]{IJJINA2016936}
+Ijjina, E.P.; {Krishna Mohan}, C.
+\newblock Hybrid deep neural network model for human action recognition.
+\newblock {\em Applied Soft Computing} {\bf 2016}, {\em 46},~936--952.
+\newblock {\url{https://doi.org/https://doi.org/10.1016/j.asoc.2015.08.025}}.
+
+\bibitem[Jaouedi et~al.(2020)Jaouedi, Boujnah, and Bouhlel]{JAOUEDI2020447}
+Jaouedi, N.; Boujnah, N.; Bouhlel, M.S.
+\newblock A new hybrid deep learning model for human action recognition.
+\newblock {\em Journal of King Saud University - Computer and Information Sciences} {\bf 2020}, {\em 32},~447--453.
+\newblock Emerging Software Systems, {\url{https://doi.org/https://doi.org/10.1016/j.jksuci.2019.09.004}}.
+
+\bibitem[Dash et~al.(2021)Dash, Mishra, Srujan~Raju, and Narasimha~Prasad]{Dash2021}
+Dash, S.C.B.; Mishra, S.R.; Srujan~Raju, K.; Narasimha~Prasad, L.V.
+\newblock Human action recognition using a hybrid deep learning heuristic.
+\newblock {\em Soft Computing} {\bf 2021}, {\em 25},~13079--13092.
+\newblock {\url{https://doi.org/10.1007/s00500-021-06149-7}}.
+
+\bibitem[Zhang et~al.(2021)Zhang, Wang, and Gao]{ZHANG2021102184}
+Zhang, J.; Wang, P.; Gao, R.X.
+\newblock Hybrid machine learning for human action recognition and prediction in assembly.
+\newblock {\em Robotics and Computer-Integrated Manufacturing} {\bf 2021}, {\em 72},~102184.
+\newblock {\url{https://doi.org/https://doi.org/10.1016/j.rcim.2021.102184}}.
+
+\bibitem[de~Oliveira~Silva et~al.(2017)de~Oliveira~Silva, de~Barros~Vidal, and Soares~Romariz]{8260728}
+de~Oliveira~Silva, V.; de~Barros~Vidal, F.; Soares~Romariz, A.R.
+\newblock Human Action Recognition Based on a Two-stream Convolutional Network Classifier.
+\newblock In Proceedings of the 2017 16th IEEE International Conference on Machine Learning and Applications (ICMLA),  2017, pp. 774--778.
+\newblock {\url{https://doi.org/10.1109/ICMLA.2017.00-64}}.
+
+\bibitem[Liu et~al.(2022)Liu, Ma, Yang, Ji, Wang, and Jiang]{LIU2022864}
+Liu, T.; Ma, Y.; Yang, W.; Ji, W.; Wang, R.; Jiang, P.
+\newblock Spatial-temporal interaction learning based two-stream network for action recognition.
+\newblock {\em Information Sciences} {\bf 2022}, {\em 606},~864--876.
+\newblock {\url{https://doi.org/https://doi.org/10.1016/j.ins.2022.05.092}}.
+
+\bibitem[Chen et~al.(2022)Chen, Wang, Zhao, Lv, and Niu]{CHEN2022103508}
+Chen, F.; Wang, X.; Zhao, Y.; Lv, S.; Niu, X.
+\newblock Visual object tracking: A survey.
+\newblock {\em Computer Vision and Image Understanding} {\bf 2022}, {\em 222},~103508.
+\newblock {\url{https://doi.org/https://doi.org/10.1016/j.cviu.2022.103508}}.
+
+\bibitem[Duan et~al.(2019)Duan, Bai, Xie, Qi, Huang, and Tian]{Duan_2019_ICCV}
+Duan, K.; Bai, S.; Xie, L.; Qi, H.; Huang, Q.; Tian, Q.
+\newblock CenterNet: Keypoint Triplets for Object Detection.
+\newblock In Proceedings of the Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV),  October 2019.
+
+\bibitem[Wojke et~al.(2017)Wojke, Bewley, and Paulus]{Wojke2017simple}
+Wojke, N.; Bewley, A.; Paulus, D.
+\newblock Simple Online and Realtime Tracking with a Deep Association Metric.
+\newblock In Proceedings of the 2017 IEEE International Conference on Image Processing (ICIP). IEEE,  2017, pp. 3645--3649.
+\newblock {\url{https://doi.org/10.1109/ICIP.2017.8296962}}.
+
+\bibitem[Liu et~al.(2022)Liu, Chen, Chu, Yuan, Liu, Zhang, and Yu]{LIU2022333}
+Liu, Q.; Chen, D.; Chu, Q.; Yuan, L.; Liu, B.; Zhang, L.; Yu, N.
+\newblock Online multi-object tracking with unsupervised re-identification learning and occlusion estimation.
+\newblock {\em Neurocomputing} {\bf 2022}, {\em 483},~333--347.
+\newblock {\url{https://doi.org/https://doi.org/10.1016/j.neucom.2022.01.008}}.
+
+\bibitem[Farneb{\"a}ck(2003)]{farneback}
+Farneb{\"a}ck, G.
+\newblock Two-Frame Motion Estimation Based on Polynomial Expansion.
+\newblock In Proceedings of the Image Analysis; Bigun, J.; Gustavsson, T., Eds., Berlin, Heidelberg,  2003; pp. 363--370.
+
+\bibitem[Contributors(2020)]{mmpose2020}
+Contributors, M.
+\newblock OpenMMLab Pose Estimation Toolbox and Benchmark.
+\newblock \url{https://github.com/open-mmlab/mmpose},  2020.
+
+\bibitem[Liu et~al.(2022)Liu, Mao, Wu, Feichtenhofer, Darrell, and Xie]{liu2022convnet}
+Liu, Z.; Mao, H.; Wu, C.Y.; Feichtenhofer, C.; Darrell, T.; Xie, S.
+\newblock A ConvNet for the 2020s.
+\newblock {\em Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)} {\bf 2022}.
+
+\bibitem[Bai et~al.(2018)Bai, Kolter, and Koltun]{bai2018empirical}
+Bai, S.; Kolter, J.Z.; Koltun, V.
+\newblock An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling,  2018,  \href{http://xxx.lanl.gov/abs/1803.01271}{{\normalfont [arXiv:cs.LG/1803.01271]}}.
+
+\bibitem[Liu et~al.(2020)Liu, Shahroudy, Perez, Wang, Duan, and Kot]{8713892}
+Liu, J.; Shahroudy, A.; Perez, M.; Wang, G.; Duan, L.Y.; Kot, A.C.
+\newblock NTU RGB+D 120: A Large-Scale Benchmark for 3D Human Activity Understanding.
+\newblock {\em IEEE Transactions on Pattern Analysis and Machine Intelligence} {\bf 2020}, {\em 42},~2684--2701.
+\newblock {\url{https://doi.org/10.1109/TPAMI.2019.2916873}}.
+
+\bibitem[Tran and Sorokin(2008)]{10100742}
+Tran, D.; Sorokin, A.
+\newblock Human Activity Recognition with Metric Learning.
+\newblock In Proceedings of the Computer Vision -- ECCV 2008; Forsyth, D.; Torr, P.; Zisserman, A., Eds., Berlin, Heidelberg,  2008; pp. 548--561.
+
+\bibitem[Blank et~al.(2005)Blank, Gorelick, Shechtman, Irani, and Basri]{ActionsAsSpaceTimeShapes_iccv05}
+Blank, M.; Gorelick, L.; Shechtman, E.; Irani, M.; Basri, R.
+\newblock Actions as Space-Time Shapes.
+\newblock In Proceedings of the The Tenth IEEE International Conference on Computer Vision (ICCV'05),  2005, pp. 1395--1402.
+
+\bibitem[Schuldt et~al.(2004)Schuldt, Laptev, and Caputo]{1334462}
+Schuldt, C.; Laptev, I.; Caputo, B.
+\newblock Recognizing human actions: a local SVM approach.
+\newblock In Proceedings of the Proceedings of the 17th International Conference on Pattern Recognition, 2004. ICPR 2004.,  2004, Vol.~3, pp. 32--36 Vol.3.
+\newblock {\url{https://doi.org/10.1109/ICPR.2004.1334462}}.
+
+\bibitem[Kuehne et~al.(2011)Kuehne, Jhuang, Garrote, Poggio, and Serre]{6126543}
+Kuehne, H.; Jhuang, H.; Garrote, E.; Poggio, T.; Serre, T.
+\newblock HMDB: A large video database for human motion recognition.
+\newblock In Proceedings of the 2011 International Conference on Computer Vision,  2011, pp. 2556--2563.
+\newblock {\url{https://doi.org/10.1109/ICCV.2011.6126543}}.
+
+\bibitem[Zhao et~al.(2019)Zhao, Yan, Torresani, and Torralba]{zhao2019hacs}
+Zhao, H.; Yan, Z.; Torresani, L.; Torralba, A.
+\newblock HACS: Human Action Clips and Segments Dataset for Recognition and Temporal Localization.
+\newblock {\em arXiv preprint arXiv:1712.09374} {\bf 2019}.
+
+\bibitem[Soomro et~al.(2012)Soomro, Zamir, and Shah]{soomro2012ucf101}
+Soomro, K.; Zamir, A.R.; Shah, M.
+\newblock UCF101: A Dataset of 101 Human Actions Classes From Videos in The Wild,  2012,  \href{http://xxx.lanl.gov/abs/1212.0402}{{\normalfont [arXiv:cs.CV/1212.0402]}}.
+
+\bibitem[pex()]{pexels}
+\url{https://www.pexels.com/}.
+\newblock [Accessed 21-11-2023].
+
+\bibitem[mix()]{mixkitMixkitAwesome}
+{M}ixkit - {A}wesome free assets for your next video project --- mixkit.co.
+\newblock \url{https://mixkit.co/}.
+\newblock [Accessed 04-01-2024].
+
+\end{thebibliography}
