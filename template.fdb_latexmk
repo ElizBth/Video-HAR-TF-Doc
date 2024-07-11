@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex template"] 1720666649.91906 "template.aux" "template.bbl" "template" 1720666657.19424 0
+["bibtex template"] 1720677917.62604 "template.aux" "template.bbl" "template" 1720678052.50318 0
   "./Definitions/mdpi.bst" 1720666502 23663 77779c76fdd3887ec2b0b58838780bed ""
-  "./biblio.bib" 1720666502 27109 0c58bfeec2d4dea5b2786e70abbcf84c ""
-  "template.aux" 1720666655 12438 585aab6ac28b12799766b93f0735db6e "pdflatex"
+  "./biblio.bib" 1720674965 27521 c54c74ca6dce92b625b123e66c09d726 ""
+  "template.aux" 1720678051 12707 8a88d9d9b7f7500fc45e00eb7d9827aa "pdflatex"
   (generated)
   "template.bbl"
   "template.blg"
   (rewritten before read)
-["pdflatex"] 1720666650.44722 "c:/Users/lizzy/Documents/CIC/Tesis/paper/Action Recognition in Videos through a Transfer Learning based Technique/template.tex" "template.pdf" "template" 1720666657.19543 0
+["pdflatex"] 1720678045.00911 "c:/Users/lizzy/Documents/CIC/Tesis/paper/Action Recognition in Videos through a Transfer Learning based Technique/template.tex" "template.pdf" "template" 1720678052.50391 0
   "Definitions/data3.png" 1720666503 192428 b912cbf74dda59d87d8a001203b46547 ""
   "Definitions/data_distrib_pie_sources.png" 1720666503 176880 bee2d705d22735248f061fb02268cc00 ""
   "Definitions/dist_vid_class.png" 1720666503 79267 5cce6fd41455fe301f5f4d4be2ed4848 ""
@@ -21,7 +21,7 @@
   "Definitions/mdpi.cls" 1720666502 53039 82a394e612a942bcd4456c225e12399c ""
   "Definitions/preprocess.png" 1720666502 199907 d5088fe9c7f69651d7d08da90a21a61c ""
   "Definitions/proposed_method.png" 1720666503 136104 66b3920e5353a384206df2a59596fe5f ""
-  "c:/Users/lizzy/Documents/CIC/Tesis/paper/Action Recognition in Videos through a Transfer Learning based Technique/template.tex" 1720666502 73187 4f5e2ec674304518867793fbb3a749c1 ""
+  "c:/Users/lizzy/Documents/CIC/Tesis/paper/Action Recognition in Videos through a Transfer Learning based Technique/template.tex" 1720678044 75517 8af8a22bf88d22f8f0eb2af09c8bccff ""
   "c:/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc" 1704391459 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "c:/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1704390463 2971 def0b6c1f0b107b3b936def894055589 ""
   "c:/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1704392255 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -255,10 +255,10 @@
   "c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1704400070 5040681 e7c1654af44cba932643b45ef336ee5d ""
   "c:/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1704400349 8217939 8be6f50976eed60aea11a319e43fa214 ""
   "c:/texlive/2023/texmf.cnf" 1704400045 713 e69b156964470283e0530f5060668171 ""
-  "template.aux" 1720666655 12438 585aab6ac28b12799766b93f0735db6e "pdflatex"
-  "template.bbl" 1720666650 13426 28bd1eba41522f011a2649f217ccf4e0 "bibtex template"
-  "template.out" 1720666655 2078 845ccaf988fdfb3d4126b13a5eb127b5 "pdflatex"
-  "template.tex" 1720666502 73187 4f5e2ec674304518867793fbb3a749c1 ""
+  "template.aux" 1720678051 12707 8a88d9d9b7f7500fc45e00eb7d9827aa "pdflatex"
+  "template.bbl" 1720677918 14073 b1204c7de40ee3eab0ec36294e92c15b "bibtex template"
+  "template.out" 1720678051 2078 845ccaf988fdfb3d4126b13a5eb127b5 "pdflatex"
+  "template.tex" 1720678044 75517 8af8a22bf88d22f8f0eb2af09c8bccff ""
   (generated)
   "template.aux"
   "template.log"

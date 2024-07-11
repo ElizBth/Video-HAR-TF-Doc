@@ -47,6 +47,18 @@ Zhang, H.B.; Zhang, Y.X.; Zhong, B.; Lei, Q.; Yang, L.; Du, J.X.; Chen, D.S.
 \newblock {\em Sensors} {\bf 2019}, {\em 19}.
 \newblock {\url{https://doi.org/10.3390/s19051005}}.
 
+\bibitem[Morshed et~al.(2023)Morshed, Sultana, Alam, and Lee]{s23042182}
+Morshed, M.G.; Sultana, T.; Alam, A.; Lee, Y.K.
+\newblock Human Action Recognition: A Taxonomy-Based Survey, Updates, and Opportunities.
+\newblock {\em Sensors} {\bf 2023}, {\em 23}.
+\newblock {\url{https://doi.org/10.3390/s23042182}}.
+
+\bibitem[Beddiar et~al.(2020)Beddiar, Nini, Sabokrou, and Hadid]{Beddiar2020}
+Beddiar, D.R.; Nini, B.; Sabokrou, M.; Hadid, A.
+\newblock Vision-based human activity recognition: a survey.
+\newblock {\em Multimedia Tools and Applications} {\bf 2020}, {\em 79},~30509--30555.
+\newblock {\url{https://doi.org/10.1007/s11042-020-09004-3}}.
+
 \bibitem[Pareek and Thakkar(2021)]{Pareek2021-zg}
 Pareek, P.; Thakkar, A.
 \newblock A survey on video-based Human Action Recognition: recent updates, datasets, challenges, and applications.

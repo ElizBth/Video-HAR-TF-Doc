@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.4)  10 JUL 2024 20:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.1.4)  11 JUL 2024 00:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1295,6 +1295,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [1
 
 {c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc}{c:/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc} <./Definitions/logo-mdpi-eps-converted-to.pdf> <./Definitions/logo-orcid.pdf>]
+Overfull \hbox (2.48601pt too wide) in paragraph at lines 197--198
+\T1/ppl/m/n/10 (-20) com-pu-ta-tional resources[[]]. To il-lus-trate, the InternVideo-T model [[]], a high-performance
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 16.18796pt, for example:
@@ -1303,15 +1307,24 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-4.18796pt}.
 
 [2]
-<Definitions/general_pipeline_proposed_method_mdpi.png, id=167, 1375.2981pt x 315.8199pt>
+<Definitions/general_pipeline_proposed_method_mdpi.png, id=163, 1375.2981pt x 315.8199pt>
 File: Definitions/general_pipeline_proposed_method_mdpi.png Graphic file (type png)
 <use Definitions/general_pipeline_proposed_method_mdpi.png>
-Package pdftex.def Info: Definitions/general_pipeline_proposed_method_mdpi.png  used on input line 259.
+Package pdftex.def Info: Definitions/general_pipeline_proposed_method_mdpi.png  used on input line 264.
 (pdftex.def)             Requested size: 389.80266pt x 89.51324pt.
-<Definitions/fairmot.png, id=173, 662.7159pt x 192.2382pt>
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 16.18796pt, for example:
+(fancyhdr)                \setlength{\headheight}{16.18796pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-4.18796pt}.
+
+[3]
+<Definitions/fairmot.png, id=184, 662.7159pt x 192.2382pt>
 File: Definitions/fairmot.png Graphic file (type png)
 <use Definitions/fairmot.png>
-Package pdftex.def Info: Definitions/fairmot.png  used on input line 273.
+Package pdftex.def Info: Definitions/fairmot.png  used on input line 278.
 (pdftex.def)             Requested size: 389.80266pt x 113.07634pt.
 
 
@@ -1321,30 +1334,21 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-4.18796pt}.
 
-[3 <./Definitions/general_pipeline_proposed_method_mdpi.png>]
-<Definitions/frame_cropped.png, id=188, 3697.3332pt x 992.9898pt>
+[4 <./Definitions/general_pipeline_proposed_method_mdpi.png> <./Definitions/fairmot.png>]
+<Definitions/frame_cropped.png, id=199, 3697.3332pt x 992.9898pt>
 File: Definitions/frame_cropped.png Graphic file (type png)
 <use Definitions/frame_cropped.png>
-Package pdftex.def Info: Definitions/frame_cropped.png  used on input line 303.
+Package pdftex.def Info: Definitions/frame_cropped.png  used on input line 308.
 (pdftex.def)             Requested size: 394.35522pt x 105.91096pt.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 16.18796pt, for example:
-(fancyhdr)                \setlength{\headheight}{16.18796pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-4.18796pt}.
-
-[4 <./Definitions/fairmot.png> <./Definitions/frame_cropped.png>]
-<Definitions/preprocess.png, id=198, 925.7787pt x 328.1058pt>
+<Definitions/preprocess.png, id=200, 925.7787pt x 328.1058pt>
 File: Definitions/preprocess.png Graphic file (type png)
 <use Definitions/preprocess.png>
-Package pdftex.def Info: Definitions/preprocess.png  used on input line 319.
+Package pdftex.def Info: Definitions/preprocess.png  used on input line 324.
 (pdftex.def)             Requested size: 394.35522pt x 139.76604pt.
-<Definitions/feature_extraction.png, id=202, 1159.33125pt x 416.55624pt>
+<Definitions/feature_extraction.png, id=204, 1159.33125pt x 416.55624pt>
 File: Definitions/feature_extraction.png Graphic file (type png)
 <use Definitions/feature_extraction.png>
-Package pdftex.def Info: Definitions/feature_extraction.png  used on input line 338.
+Package pdftex.def Info: Definitions/feature_extraction.png  used on input line 343.
 (pdftex.def)             Requested size: 394.35522pt x 141.6908pt.
 
 
@@ -1354,16 +1358,25 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-4.18796pt}.
 
-[5 <./Definitions/preprocess.png> <./Definitions/feature_extraction.png>]
-<Definitions/proposed_method.png, id=217, 2121.8472pt x 580.3281pt>
+[5 <./Definitions/frame_cropped.png>]
+<Definitions/proposed_method.png, id=219, 2121.8472pt x 580.3281pt>
 File: Definitions/proposed_method.png Graphic file (type png)
 <use Definitions/proposed_method.png>
-Package pdftex.def Info: Definitions/proposed_method.png  used on input line 351.
+Package pdftex.def Info: Definitions/proposed_method.png  used on input line 356.
 (pdftex.def)             Requested size: 394.35522pt x 107.85489pt.
-<Definitions/data_distrib_pie_sources.png, id=229, 499.3857pt x 348.3414pt>
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 16.18796pt, for example:
+(fancyhdr)                \setlength{\headheight}{16.18796pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-4.18796pt}.
+
+[6 <./Definitions/preprocess.png> <./Definitions/feature_extraction.png>]
+<Definitions/data_distrib_pie_sources.png, id=241, 499.3857pt x 348.3414pt>
 File: Definitions/data_distrib_pie_sources.png Graphic file (type png)
 <use Definitions/data_distrib_pie_sources.png>
-Package pdftex.def Info: Definitions/data_distrib_pie_sources.png  used on input line 377.
+Package pdftex.def Info: Definitions/data_distrib_pie_sources.png  used on input line 382.
 (pdftex.def)             Requested size: 256.32848pt x 178.79985pt.
 
 
@@ -1373,19 +1386,19 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-4.18796pt}.
 
-[6 <./Definitions/proposed_method.png>]
-<Definitions/data3.png, id=249, 864.22874pt x 144.54pt>
+[7 <./Definitions/proposed_method.png> <./Definitions/data_distrib_pie_sources.png>]
+<Definitions/data3.png, id=261, 864.22874pt x 144.54pt>
 File: Definitions/data3.png Graphic file (type png)
 <use Definitions/data3.png>
-Package pdftex.def Info: Definitions/data3.png  used on input line 390.
+Package pdftex.def Info: Definitions/data3.png  used on input line 395.
 (pdftex.def)             Requested size: 389.80266pt x 65.19235pt.
-<Definitions/dist_vid_class.png, id=256, 867.24pt x 180.675pt>
+<Definitions/dist_vid_class.png, id=268, 867.24pt x 180.675pt>
 File: Definitions/dist_vid_class.png Graphic file (type png)
 <use Definitions/dist_vid_class.png>
-Package pdftex.def Info: Definitions/dist_vid_class.png  used on input line 398.
+Package pdftex.def Info: Definitions/dist_vid_class.png  used on input line 403.
 (pdftex.def)             Requested size: 455.24408pt x 94.842pt.
 
-Overfull \hbox (60.88885pt too wide) in paragraph at lines 398--399
+Overfull \hbox (60.88885pt too wide) in paragraph at lines 403--404
  [][] 
  []
 
@@ -1396,15 +1409,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-4.18796pt}.
 
-[7 <./Definitions/data_distrib_pie_sources.png> <./Definitions/data3.png> <./Definitions/dist_vid_class.png>]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 16.18796pt, for example:
-(fancyhdr)                \setlength{\headheight}{16.18796pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-4.18796pt}.
-
-[8]
+[8 <./Definitions/data3.png> <./Definitions/dist_vid_class.png>]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 16.18796pt, for example:
@@ -1421,19 +1426,28 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-4.18796pt}.
 
 [10]
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 575.
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 575.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 575.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 575.
 
-Underfull \hbox (badness 10000) in paragraph at lines 606--606
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 16.18796pt, for example:
+(fancyhdr)                \setlength{\headheight}{16.18796pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-4.18796pt}.
+
+[11]
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 9.37807pt on input line 580.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 7.29405pt on input line 580.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 9.37807pt on input line 580.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 7.29405pt on input line 580.
+
+Underfull \hbox (badness 10000) in paragraph at lines 611--611
 
  []
 
+(./template.bbl
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 16.18796pt, for example:
@@ -1441,7 +1455,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-4.18796pt}.
 
-[11] (./template.bbl
+[12]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 16.18796pt, for example:
@@ -1449,7 +1463,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-4.18796pt}.
 
-[12])
+[13])
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 16.18796pt, for example:
@@ -1457,7 +1471,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-4.18796pt}.
 
-[13] 
+[14] 
 enddocument/afterlastpage: lastpage setting LastPage.
 (./template.aux)
  ***********
@@ -1468,18 +1482,18 @@ Package rerunfilecheck Info: File `template.out' has not changed.
 (rerunfilecheck)             Checksum: 845CCAF988FDFB3D4126B13A5EB127B5;2078.
  ) 
 Here is how much of TeX's memory you used:
- 34863 strings out of 474174
- 649108 string characters out of 5749678
- 1963460 words of memory out of 5000000
- 56069 multiletter control sequences out of 15000+600000
- 618679 words of font info for 374 fonts, out of 8000000 for 9000
+ 34881 strings out of 474174
+ 649328 string characters out of 5749678
+ 1971460 words of memory out of 5000000
+ 56075 multiletter control sequences out of 15000+600000
+ 619156 words of font info for 380 fonts, out of 8000000 for 9000
  1147 hyphenation exceptions out of 8191
- 123i,12n,124p,4744b,791s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 123i,12n,124p,4744b,811s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfss0800.pfb><c:/texlive/2023/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb><c:/texlive/2023/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb><c:/texlive/2023/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on template.pdf (13 pages, 8702380 bytes).
+Output written on template.pdf (14 pages, 8706540 bytes).
 PDF statistics:
- 411 PDF objects out of 1000 (max. 8388607)
- 354 compressed objects within 4 object streams
- 82 named destinations out of 1000 (max. 500000)
+ 424 PDF objects out of 1000 (max. 8388607)
+ 366 compressed objects within 4 object streams
+ 85 named destinations out of 1000 (max. 500000)
  89796 words of extra memory for PDF output out of 106986 (max. 10000000)
 
